@@ -1,4 +1,4 @@
-## vIEWING INSTRUCTIONS
+## VIEWING INSTRUCTIONS
 
 To render HTML properly go to:
 https://htmlpreview.github.io/
